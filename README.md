@@ -1,5 +1,3 @@
-add acknowledgement
-
 🌟 **Predicting House Prices with Linear Regression**
 
 This project explores **multiple linear regression** to predict house sale prices using the **Ames Housing dataset**. It follows a comprehensive data analysis pipeline, starting with data exploration and feature selection, and moving through model building, evaluation, and refinement. The goal is to build a robust predictive model by systematically adding features and addressing common issues in regression analysis.
