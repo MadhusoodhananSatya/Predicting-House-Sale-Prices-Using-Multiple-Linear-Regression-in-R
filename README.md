@@ -64,7 +64,7 @@ You can install these packages using the `install.packages()` command within you
 
 ### 📊 Project Workflow
 
-The **`week 8.R`** script follows a clear, step-by-step workflow:
+The **`House_Sales_Price Analysis.R`** script follows a clear, step-by-step workflow:
 
 1.  **Setup and Data Loading**: Necessary libraries are loaded, and the `ameshousing3.csv` dataset is read into a data frame.
 
